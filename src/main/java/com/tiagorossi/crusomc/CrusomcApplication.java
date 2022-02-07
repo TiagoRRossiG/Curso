@@ -9,5 +9,6 @@ public class CrusomcApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CrusomcApplication.class, args);
 	}
+	
 
 }
